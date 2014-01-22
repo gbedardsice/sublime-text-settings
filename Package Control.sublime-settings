@@ -1,0 +1,33 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"Backbone.js",
+		"Backbone.Marionette",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"ERB Insert and Toggle Commands",
+		"FileDiffs",
+		"HexViewer",
+		"HTML5",
+		"Jade",
+		"JsFormat",
+		"JSHint",
+		"LESS",
+		"Package Control",
+		"PlainTasks",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"Theme - Centurion",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"xml2json"
+	]
+}
