@@ -1,5 +1,8 @@
 [
   { "keys": ["super+v"], "command": "paste_and_indent" },
   { "keys": ["super+shift+."], "command": "erb" },
-  { "keys": ["super+."], "command": "reveal_in_side_bar"}
+  { "keys": ["super+."], "command": "reveal_in_side_bar"},
+  { "keys": ["super+;"], "command": "toggle_side_bar" },
+  { "keys": ["super+alt+shift+w"], "command": "close_others" },
+  { "keys": ["super+b"], "command": "goto_definition" }
 ]

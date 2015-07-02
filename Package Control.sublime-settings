@@ -1,33 +1,47 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
-		"All Autocomplete",
 		"ApacheConf.tmLanguage",
 		"Backbone.js",
 		"Backbone.Marionette",
 		"BracketHighlighter",
+		"DashDoc",
+		"Dayle Rees Color Schemes",
 		"DocBlockr",
 		"Emmet",
-		"ERB Insert and Toggle Commands",
 		"FileDiffs",
-		"HexViewer",
+		"Git",
+		"GitGutter",
+		"GitHubinator",
+		"HTML-CSS-JS Prettify",
 		"HTML5",
-		"Jade",
+		"HTMLBeautify",
 		"JsFormat",
 		"JSHint",
 		"LESS",
+		"Markdown Preview",
+		"Material Theme",
 		"Package Control",
 		"PlainTasks",
 		"Pretty JSON",
+		"Sass",
 		"SideBarEnhancements",
-		"Stylus",
+		"SublimeAllAutocomplete",
+		"SublimeERB",
 		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"Theme - Centurion",
-		"Theme - Flatland",
+		"Theme - Hero",
 		"Theme - Soda",
-		"Tomorrow Color Schemes",
-		"xml2json"
+		"Tomorrow Color Schemes"
+	],
+	"repositories":
+	[
+		"https://github.com/andruhon/SublimeAllAutocomplete"
 	]
 }
