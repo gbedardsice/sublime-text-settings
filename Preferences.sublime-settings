@@ -1,7 +1,8 @@
 {
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"detect_slow_plugins": false,
 	"drag_text": false,
+	"draw_indent_guides": true,
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "UTF-8",
 	"file_exclude_patterns":
@@ -17,7 +18,8 @@
 		".idea",
 		".sass-cache",
 		"target",
-		"dist"
+		"node_modules",
+		"bower_components"
 	],
 	"font_face": "Input",
 	"font_size": 11.0,
@@ -26,8 +28,7 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage",
-		"PlainTasks"
+		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
@@ -42,7 +43,7 @@
 	"shift_tab_unindent": true,
 	"sublimelinter": "load-save",
 	"tab_size": 2,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Centurion.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true
