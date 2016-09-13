@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+
 	"detect_slow_plugins": false,
 	"drag_text": false,
 	"draw_indent_guides": true,
@@ -8,7 +8,8 @@
 	"file_exclude_patterns":
 	[
 		".DS_Store",
-		".scssc"
+		".scssc",
+		"*.pyc"
 	],
 	"find_selected_text": true,
 	"folder_exclude_patterns":
@@ -19,13 +20,14 @@
 		".sass-cache",
 		"target",
 		"node_modules",
-		"bower_components"
+		"bower_components",
+		"reports"
 	],
-	"font_face": "Input",
+	"font_face": "InputSans",
 	"font_size": 11.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"hot_exit": false,
+	"hot_exit": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -43,7 +45,8 @@
 	"shift_tab_unindent": true,
 	"sublimelinter": "load-save",
 	"tab_size": 2,
-	"theme": "Centurion.sublime-theme",
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true

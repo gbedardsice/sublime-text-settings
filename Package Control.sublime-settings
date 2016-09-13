@@ -1,5 +1,6 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -9,13 +10,14 @@
 		"ApacheConf.tmLanguage",
 		"Backbone.js",
 		"Backbone.Marionette",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"DashDoc",
 		"Dayle Rees Color Schemes",
 		"DocBlockr",
+		"Dracula Color Scheme",
 		"Emmet",
 		"FileDiffs",
-		"Git",
 		"GitGutter",
 		"GitHubinator",
 		"HTML-CSS-JS Prettify",
@@ -23,6 +25,7 @@
 		"HTMLBeautify",
 		"JsFormat",
 		"JSHint",
+		"JSX",
 		"LESS",
 		"Markdown Preview",
 		"Material Theme",
@@ -34,6 +37,7 @@
 		"SublimeAllAutocomplete",
 		"SublimeERB",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-jshint",
 		"Theme - Centurion",
 		"Theme - Hero",
