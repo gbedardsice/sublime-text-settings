@@ -12,6 +12,7 @@
 		"*.pyc"
 	],
 	"find_selected_text": true,
+	"fold_buttons": false,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -21,9 +22,11 @@
 		"target",
 		"node_modules",
 		"bower_components",
-		"reports"
+		"reports",
+		"dist",
+		"coverage"
 	],
-	"font_face": "InputSans",
+	"font_face": "Input",
 	"font_size": 11.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,

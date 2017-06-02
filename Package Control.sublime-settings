@@ -8,12 +8,14 @@
 	[
 		"Alignment",
 		"ApacheConf.tmLanguage",
+		"Babel",
 		"Backbone.js",
 		"Backbone.Marionette",
 		"Boxy Theme",
 		"BracketHighlighter",
 		"DashDoc",
 		"DocBlockr",
+		"EditorConfig",
 		"Emmet",
 		"FileDiffs",
 		"GitGutter",
@@ -21,6 +23,8 @@
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"HTMLBeautify",
+		"HyperClick",
+		"Jest",
 		"JsFormat",
 		"JSX",
 		"Markdown Preview",
@@ -33,7 +37,9 @@
 		"SublimeERB",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"Tomorrow Color Schemes"
+		"Theme - Hero",
+		"Tomorrow Color Schemes",
+		"TypeScript"
 	],
 	"repositories":
 	[
